@@ -1,0 +1,13 @@
+[
+  {
+    "id": 2,
+    "cpfAnonimo": 23344,
+    "tipoDoPlano": "mensal",
+    "valorTotal": 100.0,
+    "data": {
+      "dia": 28,
+      "mes": 10,
+      "ano": 2024
+    }
+  }
+]

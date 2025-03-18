@@ -1,0 +1,16 @@
+[
+  {
+    "nomeAluno": "Jose",
+    "endereco": "rua 2",
+    "telefone": "3333",
+    "email": "bernardoivo@gmail.com",
+    "cpfAnonimo": 23344
+  },
+  {
+    "nomeAluno": "bernardo",
+    "endereco": "rua 3",
+    "telefone": "4444",
+    "email": "ivo234@gmail.com",
+    "cpfAnonimo": 43333
+  }
+]

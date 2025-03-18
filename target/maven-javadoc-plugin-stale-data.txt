@@ -1,0 +1,53 @@
+@options
+@packages
+-classpath
+'C:/Users/berna/.m2/repository/org/projectodd/openwhisk/functions/0.3/functions-0.3.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'C:/Users/berna/Documents/NetBeansProjects/Academia/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/berna/Documents/NetBeansProjects/Academia/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Academia 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Academia 1.0-SNAPSHOT API'
+Academia
+Comparator
+Controle
+Gson
+C:\Users\berna\.m2\repository\org\projectodd\openwhisk\functions\0.3\functions-0.3.jar = 1730427356922
+C:\Users\berna\Documents\NetBeansProjects\Academia\src\main\java = 1730427065542
+C:\Users\berna\Documents\NetBeansProjects\Academia\target\site\apidocs\allclasses-index.html = 1731280231901
+C:\Users\berna\Documents\NetBeansProjects\Academia\target\site\apidocs\allpackages-index.html = 1731280231904
+C:\Users\berna\Documents\NetBeansProjects\Academia\target\site\apidocs\constant-values.html = 1731280231665
+C:\Users\berna\Documents\NetBeansProjects\Academia\target\site\apidocs\copy.svg = 1731280231967
+C:\Users\berna\Documents\NetBeansProjects\Academia\target\site\apidocs\element-list = 1731280231610
+C:\Users\berna\Documents\NetBeansProjects\Academia\target\site\apidocs\help-doc.html = 1731280231960
+C:\Users\berna\Documents\NetBeansProjects\Academia\target\site\apidocs\index-all.html = 1731280231948
+C:\Users\berna\Documents\NetBeansProjects\Academia\target\site\apidocs\index.html = 1731280231860
+C:\Users\berna\Documents\NetBeansProjects\Academia\target\site\apidocs\link.svg = 1731280231969
+C:\Users\berna\Documents\NetBeansProjects\Academia\target\site\apidocs\member-search-index.js = 1731280231910
+C:\Users\berna\Documents\NetBeansProjects\Academia\target\site\apidocs\module-search-index.js = 1731280231905
+C:\Users\berna\Documents\NetBeansProjects\Academia\target\site\apidocs\overview-summary.html = 1731280231955
+C:\Users\berna\Documents\NetBeansProjects\Academia\target\site\apidocs\overview-tree.html = 1731280231856
+C:\Users\berna\Documents\NetBeansProjects\Academia\target\site\apidocs\package-search-index.js = 1731280231906
+C:\Users\berna\Documents\NetBeansProjects\Academia\target\site\apidocs\script.js = 1731280231966
+C:\Users\berna\Documents\NetBeansProjects\Academia\target\site\apidocs\search-page.js = 1731280231982
+C:\Users\berna\Documents\NetBeansProjects\Academia\target\site\apidocs\search.html = 1731280231953
+C:\Users\berna\Documents\NetBeansProjects\Academia\target\site\apidocs\search.js = 1731280231971
+C:\Users\berna\Documents\NetBeansProjects\Academia\target\site\apidocs\stylesheet.css = 1731280231964
+C:\Users\berna\Documents\NetBeansProjects\Academia\target\site\apidocs\tag-search-index.js = 1731280231911
+C:\Users\berna\Documents\NetBeansProjects\Academia\target\site\apidocs\type-search-index.js = 1731280231908

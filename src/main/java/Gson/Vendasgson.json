@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "produtoId": 3,
+    "nomeDoProduto": "hipercalorico",
+    "categoriaDaVenda": "Suplemento",
+    "dataVenda": {
+      "dia": 30,
+      "mes": 10,
+      "ano": 2024
+    },
+    "valorTotal": 1000.0
+  },
+  {
+    "id": 2,
+    "produtoId": 2,
+    "nomeDoProduto": "BCA",
+    "categoriaDaVenda": "Suplemento",
+    "dataVenda": {
+      "dia": 30,
+      "mes": 10,
+      "ano": 2024
+    },
+    "valorTotal": 250.0
+  }
+]

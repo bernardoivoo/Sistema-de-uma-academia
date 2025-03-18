@@ -1,0 +1,16 @@
+[
+  {
+    "nomeDoProduto": "BCA",
+    "categoria": "Suplemento",
+    "valor": 50.0,
+    "id": 2,
+    "quantidade": 15
+  },
+  {
+    "nomeDoProduto": "hipercalorico",
+    "categoria": "Suplemento",
+    "valor": 100.0,
+    "id": 3,
+    "quantidade": 0
+  }
+]

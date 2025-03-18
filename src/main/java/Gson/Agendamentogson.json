@@ -1,0 +1,15 @@
+[
+  {
+    "nomeAluno": "Jose",
+    "aulaId": 1,
+    "dataAgendamento": {
+      "dia": 30,
+      "mes": 10,
+      "ano": 2024
+    },
+    "preco": 100.0,
+    "numeroCartaoCredito": "234534",
+    "funcionario": "Eduardo",
+    "numeroSala": 101
+  }
+]
